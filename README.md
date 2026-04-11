@@ -7,7 +7,7 @@
   ---
   ## Description
   - Chatapp is Java proggrammed application that allows users to register and login.
-  - Chatapp makes sure that users enter correct details to register as well to login.
+  - Chatapp makes sure that users enter correct details to register as well to login. 
   - Chatapp has three classes inside in it namely Login ,MainApp and a LoginTest.
     
     ---
